@@ -1,7 +1,7 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://i.ibb.co/XsdmR2c/1.png",
+    img: "https://media.istockphoto.com/id/618553342/photo/beauty-young-girl-outdoors-enjoying-nature.jpg?s=612x612&w=0&k=20&c=hekc8yrqf9OzJQ_-jjR4gp5FwUci401sHFjyDKo3cUk=",
     title: "SUMMER SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "f5fafd",
